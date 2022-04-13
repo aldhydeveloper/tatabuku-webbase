@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.62e7f6dc.css",
+    "main.js": "./static/js/main.5c8ec86b.js",
+    "static/media/video1.mp4": "./static/media/video1.a2703484bb9eee7d0c2e.mp4",
+    "static/media/purchases.png": "./static/media/purchases.1c00eedf87c3593c7deb.png",
+    "static/media/settings.png": "./static/media/settings.3022137f85f34f5a671c.png",
+    "static/media/sales.png": "./static/media/sales.6bd7a305c88ea45da23b.png",
+    "static/media/accounting.png": "./static/media/accounting.4de5639b8334f9ecb589.png",
+    "static/media/rekening.png": "./static/media/rekening.c66db9a608ddf5a1d861.png",
+    "static/media/apps.png": "./static/media/apps.e1c1942d9d7eeda93cad.png",
+    "static/media/svg-3.svg": "./static/media/svg-3.1704706ea5c1e72f3602d12221efcd19.svg",
+    "index.html": "./index.html",
+    "main.62e7f6dc.css.map": "./static/css/main.62e7f6dc.css.map",
+    "main.5c8ec86b.js.map": "./static/js/main.5c8ec86b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62e7f6dc.css",
+    "static/js/main.5c8ec86b.js"
+  ]
+}
